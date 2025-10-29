@@ -70,6 +70,7 @@ body {
     width: 85vw;
     max-width: 350px;
     border-radius: 14px;
+    min-height: 90px;
   }
   .avatar {
     width: 90px;
@@ -83,6 +84,7 @@ body {
     padding: 0.8em;
   }
 }
+
 
 
 
