@@ -63,7 +63,6 @@ body {
 
 @media (max-width: 500px) {
   .card {
-    margin-right: 10px;
     margin-left: 10px;
     width: 90vw;
     max-width: 92vw;
@@ -72,8 +71,8 @@ body {
     border-radius: 14px;
   }
   .avatar {
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
   }
   h1 {
     font-size: 1.1em;
@@ -83,6 +82,7 @@ body {
     padding: 0.8em;
   }
 }
+
 
 
 
