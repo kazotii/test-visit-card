@@ -67,10 +67,6 @@ body {
     padding: 1em 0.5em;
     border-radius: 16px;
   }
-  .btn {
-    font-size: 0.9em;
-    padding: 0.8em ;
-  }
   .avatar {
     width: 60px;
     height: 60px;
@@ -78,9 +74,10 @@ body {
   h1 {
     font-size: 1.1em;
   }
+  .btn {
+    font-size: 0.9em;
+    padding: 0.8em;
+  }
 }
-
-
-
 
 
