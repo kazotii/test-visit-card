@@ -63,9 +63,9 @@ body {
 
 @media (max-width: 500px) {
   .card {
-    width: 90vw;
+    width: 85vw;
     max-width: 350px;
-    border-radius: 16px;
+    border-radius: 14px;
   }
   .avatar {
     width: 80px;
@@ -79,6 +79,7 @@ body {
     padding: 0.8em;
   }
 }
+
 
 
 
