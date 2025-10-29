@@ -70,10 +70,11 @@ body {
     width: 85vw;
     max-width: 350px;
     border-radius: 14px;
+    min-height: 92vh;
   }
   .avatar {
-    width: 80px;
-    height: 80px;
+    width: 90px;
+    height: 90px;
   }
   h1 {
     font-size: 1.1em;
@@ -83,6 +84,7 @@ body {
     padding: 0.8em;
   }
 }
+
 
 
 
