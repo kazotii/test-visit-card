@@ -63,11 +63,8 @@ body {
 
 @media (max-width: 500px) {
   .card {
-    margin-left: 10px;
-    width: 90vw;
-    max-width: 92vw;
-    min-height: 90vh;
-    padding: 1em 1vw;
+    margin-left: 20px;
+    max-width: 98vw;
     border-radius: 14px;
   }
   .avatar {
@@ -78,10 +75,12 @@ body {
     font-size: 1.1em;
   }
   .btn {
+    цшвер
     font-size: 0.9em;
     padding: 0.8em;
   }
 }
+
 
 
 
