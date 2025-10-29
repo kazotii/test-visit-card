@@ -63,7 +63,6 @@ body {
 
 @media (max-width: 500px) {
   .card {
-    margin-left: 10px;
     max-width: 90vw;
     border-radius: 14px;
   }
@@ -79,6 +78,7 @@ body {
     padding: 0.8em;
   }
 }
+
 
 
 
