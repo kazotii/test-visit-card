@@ -63,7 +63,8 @@ body {
 
 @media (max-width: 500px) {
   .card {
-    margin: 0;
+    margin-right: 10px;
+    margin-left: 10px;
     width: 90vw;
     max-width: 92vw;
     min-height: 90vh;
@@ -82,6 +83,7 @@ body {
     padding: 0.8em;
   }
 }
+
 
 
 
